@@ -1,0 +1,21 @@
+---
+title: "speed-and-distance"
+author: "Tina Ivancir"
+date: "22 2 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Speed and distance test file
+
+```{r speed}
+
+v = 50
+d = 300
+
+```
+
+Neki
